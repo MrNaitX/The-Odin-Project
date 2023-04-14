@@ -1,2 +1,3 @@
 Hello my little friend!
 Here we are again!
+We are just testing the commit with message in Visual Studio Code!
